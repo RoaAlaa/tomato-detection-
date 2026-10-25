@@ -1,0 +1,5 @@
+train: /Users/rokiialaa/Downloads/Tomato/Tomato/images/train
+val: /Users/rokiialaa/Downloads/Tomato/Tomato/images/val
+
+nc: 1
+names: ['tomato']

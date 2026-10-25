@@ -1,0 +1,5 @@
+train: dummy
+val: /Users/rokiialaa/Downloads/Tomato/Tomato/sample/images
+
+nc: 1
+names: ['tomato']
